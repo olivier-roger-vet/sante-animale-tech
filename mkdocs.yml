@@ -1,0 +1,114 @@
+site_url: https://olivier-roger-vet.github.io/sante-animale-tech
+use_directory_urls: false
+site_name: Mémento de Santé Animale
+site_description: Mémento destiné aux technicien(ne)s de laboratoire en Santé Animale
+site_author: Olivier ROGER
+
+nav:
+  - Accueil: index.md
+  - Maladies infectieuses: 
+    - maladies_infectieuses/index.md
+    - Influenza: maladies_infectieuses/influenza.md
+  - Maladies parasitaires: maladies_parasitaires/index.md
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Afficher le mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Afficher le mode clair
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.path
+    - navigation.footer
+    - navigation.indexes # not compatible with toc.integrate
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    # - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate # not compatible with navigation.indexes
+  icon:
+    logo: fontawesome/solid/microscope
+    annotation: material/plus-circle-outline
+
+plugins:
+  - search
+  - tags
+extra:
+  tags:
+    Takeaway: takeaway
+  consent:
+    title: Usage des cookies
+    description: >-
+      Nous utilisons des cookies pour reconnaître vos visites répétées et vos préférences, ainsi que pour mesurer l’efficacité de notre documentation et déterminer si les utilisateurs trouvent ce qu’ils recherchent. Avec votre consentement, vous nous aidez à améliorer notre documentation.
+    actions:
+      - accept
+      - reject
+  generator: false
+copyright: Copyright &copy; 2026 Olivier ROGER
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+watch:
+  # when the glossary file is updated, the project is automatically reloaded when running mkdocs serve.
+  - includes
+extra_css:
+  - stylesheets/extra.css
