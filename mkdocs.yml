@@ -7,9 +7,9 @@ site_author: Olivier ROGER
 nav:
   - Accueil: index.md
   - Maladies infectieuses: 
-    - maladies_infectieuses/index.md
     - Influenza: maladies_infectieuses/influenza.md
-  - Maladies parasitaires: maladies_parasitaires/index.md
+  - Maladies parasitaires: 
+    - Neosporose: maladies_parasitaires/neosporose.md
 
 theme:
   name: material
@@ -18,14 +18,14 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: green
-      accent: pink
+      accent: light-green
       toggle:
         icon: material/weather-night
         name: Afficher le mode sombre
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue
-      accent: pink
+      accent: light-blue
       toggle:
         icon: material/weather-sunny
         name: Afficher le mode clair
