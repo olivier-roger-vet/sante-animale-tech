@@ -1,5 +1,7 @@
 # Influenza aviaire
 
+MAJ : 03/2026
+
 ## 1. Etiologie
 
 - Virus influenza type A.
@@ -71,6 +73,10 @@
 !!! note "Saisonnalité"
 
     Les épizooties ont souvent un **caractère saisonnier** (début à l'automne, fin au printemps), mais récemment (depuis 2022) de nombreux cas estivaux sont recensés.
+
+!!! note "Surveillance de la faune sauvage"
+
+    A automne 2025, le nombre de cas identifiés dans l'avifaune sauvage d'Europe de l'ouest (GB, FR, GE) a connu une augmentation significative par rapport aux années précédentes. Les cas sont majoritairement dus au sous-type H5N1 ([en savoir plus](https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2025.9811))
 
 ### 3.2 Epidémiologie analytique
 
