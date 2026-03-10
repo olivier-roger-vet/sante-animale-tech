@@ -8,6 +8,7 @@ nav:
   - Accueil: index.md
   - Maladies infectieuses: 
     - Influenza: maladies_infectieuses/influenza.md
+    - Peste porcine africaine: maladies_infectieuses/ppa.md
   - Maladies parasitaires: 
     - Neosporose: maladies_parasitaires/neosporose.md
 
