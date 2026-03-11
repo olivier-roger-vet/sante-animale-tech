@@ -1,0 +1,32 @@
+p {
+  text-align: justify;
+}
+
+.disease_summary {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+.disease_summary th {
+    font-weight: 600;
+}
+
+.disease_summary th, .disease_summary td {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.disease_summary tr:first-child th:first-child {
+    text-align: left;
+    width: 40%;
+}
+
+.disease_summary tr:not(:first-child) td:first-child {
+    text-align: left;
+    width: 40%;
+}
+
+.disease_summary tr td:not(:first-child) {
+    text-align: center;
+}
