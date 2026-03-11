@@ -7,9 +7,12 @@ site_author: Olivier ROGER
 nav:
   - Accueil: index.md
   - Maladies infectieuses: 
+    - maladies_infectieuses/index.md
+    - Fièvre Q: maladies_infectieuses/fievre_q.md
     - Influenza: maladies_infectieuses/influenza.md
     - Peste porcine africaine: maladies_infectieuses/ppa.md
   - Maladies parasitaires: 
+    - maladies_parasitaires/index.md
     - Neosporose: maladies_parasitaires/neosporose.md
 
 theme:

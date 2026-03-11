@@ -1,7 +1,5 @@
 # Influenza aviaire
 
-MAJ : 03/2026
-
 ## 1. Etiologie
 
 - Virus influenza type A.
