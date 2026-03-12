@@ -19,4 +19,13 @@
         <td></td> <!--PC-->
         <td></td> <!--VL-->
     </tr>
+    <tr>
+        <td><a href="./toxoplasmose.html">Toxoplasmose</a></td>
+        <td></td> <!--BV-->
+        <td>X</td> <!--OV-->
+        <td>X</td> <!--CP-->
+        <td></td> <!--CV-->
+        <td></td> <!--PC-->
+        <td></td> <!--VL-->
+    </tr>
 </table>
