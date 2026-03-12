@@ -161,3 +161,7 @@
 - Vaccination possible (Coxevax&copy;)
 - Concerne les animaux non infectés des troupeaux exposés au risque ou infectés
 - Objectif : limiter les avortements et réduire l'excression.
+
+## 8. En savoir plus
+
+[Consulter le site web du Comité Fièvre Q](https://www.comitefievreq.com/){.md-button}
