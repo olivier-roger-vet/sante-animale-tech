@@ -21,6 +21,15 @@
         <td></td> <!--PC-->
         <td></td> <!--VL-->
     </tr>
+    <tr>
+        <td><a href="./paratuberculose.html">Paratuberculose</a></td>
+        <td>X</td> <!--BV-->
+        <td>X</td> <!--OV-->
+        <td>X</td> <!--CP-->
+        <td></td> <!--CV-->
+        <td></td> <!--PC-->
+        <td></td> <!--VL-->
+    </tr>
 </table>
 
 ## 2. Maladies virales
