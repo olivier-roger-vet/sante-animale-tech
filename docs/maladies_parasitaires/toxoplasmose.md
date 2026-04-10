@@ -45,11 +45,11 @@
 
 !!! warning "Rester prudent sur l'interprétation"
 
-    Etant donné que nombre de nouveaux infestés in utero sont asymptomatiques, il n'est pas toujours possible de désigner T. gondii comme responsable de l'avortement, y compris en présence d'une PCR ou sero positives.
+    Etant donné que nombre de nouveaux-nés infestés in utero sont asymptomatiques, il n'est pas toujours possible de désigner T. gondii comme responsable de l'avortement, y compris en présence d'une PCR ou sero positives.
 
 ### 5.1. Direct
 
-- Par PCR sur avorton (cerveau, coeur, liquide gastrique)
+- Par PCR sur avorton (**cerveau** > coeur, liquide gastrique) ou mucus vaginal / placenta.
 
 ### 5.2. Indirect
 

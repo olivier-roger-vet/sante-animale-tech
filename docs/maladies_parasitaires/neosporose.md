@@ -129,7 +129,7 @@
 
 - Réalisable même sur tissu décomposé.
 - Ne signifie pas que N. caninum est responsable de l'avortement (certains veaux bien vivants sont + à la naissance)
-- Sur le cerveau, le cœur, le poumon ou le rein. 
+- Sur le **cerveau**, le cœur, le poumon ou le rein. 
 - Le prélèvement peut être conservé à - 20 °C. 
 - Il n’y a pas de réactions croisées avec *T. gondii* ou *Sarcocystis cruzi*.
 
