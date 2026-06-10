@@ -45,6 +45,15 @@
         <th>VO</th>
     </tr>
     <tr>
+        <td><a href="./bvd.html">BVD</a></td>
+        <td>X</td> <!--BV-->
+        <td></td> <!--OV-->
+        <td></td> <!--CP-->
+        <td></td> <!--CV-->
+        <td></td> <!--PC-->
+        <td></td> <!--VL-->
+    </tr>
+    <tr>
         <td><a href="./influenza.html">Influenza aviaire</a></td>
         <td>X</td> <!--BV-->
         <td></td> <!--OV-->

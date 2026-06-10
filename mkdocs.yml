@@ -8,6 +8,7 @@ nav:
   - Accueil: index.md
   - Maladies infectieuses: 
     - maladies_infectieuses/index.md
+    - BVD : maladies_infectieuses/bvd.md
     - Fièvre Q: maladies_infectieuses/fievre_q.md
     - Influenza: maladies_infectieuses/influenza.md
     - Paratuberculose: maladies_infectieuses/paratuberculose.md
