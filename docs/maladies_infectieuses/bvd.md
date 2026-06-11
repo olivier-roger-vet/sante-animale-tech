@@ -239,7 +239,7 @@
 
 | Technique | Sang total | Sérum | Lait | Organes/Tissus                                     |
 | --------- | ---------- | ----- | ---- | -------------------------------------------------- |
-| RT-PCR    | EDTA       | X     | X    | Rate, foie, poumons, placenta, biopsie auriculaire |
+| RT-PCR    |            | X     | X    | Rate, foie, poumons, placenta, biopsie auriculaire |
 | ELISA Ag  | X          | X     |      | X                                                  |
 | ELISA Ac  |            | X     | X    |                                                    |
 
@@ -260,7 +260,7 @@
         <th>Sero attendue</th>
     </tr>
     <tr>
-        <td>Bovin naïfs</td>
+        <td>Bovin naïf</td>
         <td>N</td>
         <td>N</td>
     </tr>
