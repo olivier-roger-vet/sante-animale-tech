@@ -71,4 +71,13 @@
         <td>X</td> <!--PC-->
         <td></td> <!--VL-->
     </tr>
+    <tr>
+        <td><a href="./shamonda.html">Virus Shamonda-like</a></td>
+        <td>X</td> <!--BV-->
+        <td>X</td> <!--OV-->
+        <td>X</td> <!--CP-->
+        <td></td> <!--CV-->
+        <td></td> <!--PC-->
+        <td></td> <!--VL-->
+    </tr>
 </table>
